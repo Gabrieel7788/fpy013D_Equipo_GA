@@ -3,7 +3,7 @@ def datos_gabriel():
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
-    print("1. Función de integrante 1")
+    print("1. Función de Gabriel")
     print("2. Función de integrante 2")
     print("0. Salir")
     op = input("Seleccione opción: ")
