@@ -1,7 +1,7 @@
 def datos_gabriel():
     print("Mi nombre es Gabriel y tengo 20 años.")
 def datos_mauricio():
-    print("Mi nombre es Mauricio Jaramillo y tengo 29 años.")
+    print("Mi nombre es Mauricio  y tengo 29 años.")
 
 # Menú base del programa
 while True:
